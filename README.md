@@ -20,9 +20,7 @@ Automation support with shell scripts and cron scheduling.
 ## sudo apt-get update
 2.Install necessary dependencies:
 ## sudo apt-get install gcc libcurl4-openssl-dev
-3.Clone the repository:
-## git clone https://github.com/<MASHAAL-ALI>/Environment-Monitoring-system.git
-4.Navigate to the project directory:
+3.Navigate to the project directory:
 ## cd Environment-Monitoring-system
 
 *Build & Run
@@ -55,7 +53,7 @@ nohup ./env_monitor &
 Get the process ID (PID):
 # ps aux | grep env_monitor
 Kill the process using its PID:
-# kill <PID>
+# kill PID
 
-# This updated README.md is tailored to your Integrated Environmental Monitoring System project.
+# This updated README.md is tailored to your Environmental Monitoring System project.
 
