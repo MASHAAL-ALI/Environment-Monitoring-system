@@ -1,4 +1,4 @@
-# Environment-Monitoring-system
+# Environment-Monitoring-system.
 A CLI-based environmental monitoring system fetching real-time weather data for Karachi
 from the OpenWeather API using libcurl. The system stores data in files, generates alerts
 for critical environmental conditions using Linux system calls, and demonstrates efficient
@@ -13,7 +13,7 @@ Automation support with shell scripts and cron scheduling.
 <!-- To run this application, you need to have the following installed: -->
 # C Compiler (GCC)
 # libcurl
-# Linux Environment (for alerts)
+# Linux Environment (for alerts).
 
 # Setup on Ubuntu
 1.Update your system:
